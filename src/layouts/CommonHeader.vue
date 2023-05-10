@@ -60,7 +60,7 @@ function changeColorMode(color: BasicColorSchema) {
 <template>
   <a-layout-header class="select-none bg-white p-0 dark:bg-[#232324]">
     <div class="mx-auto flex w-container max-w-full items-center justify-between">
-      <img class="h-12" :src="logoHead" alt="KMS Tools" />
+      <img class="h-12" :src="logoHead" alt="懒人科技" />
       <a-menu
         :selected-keys="selectedKeys"
         class="grow whitespace-nowrap xs:max-md:w-36"

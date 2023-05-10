@@ -3,10 +3,12 @@ import {
   ApplicationOne,
   DownloadWeb,
   DataServer,
-  DocSearchTwo,
+  Helpcenter,
   Brightness,
   DarkMode,
   SettingTwo,
+  Movie
+
 } from '@icon-park/vue-next'
 import { BasicColorSchema } from '@vueuse/core'
 import { Component } from 'vue'
@@ -41,6 +43,11 @@ export const menuOption: Array<MenuItem> = [
     icon: DownloadWeb,
   },
   {
+    name: 'movie',
+    title: '电影播放',
+    icon: Movie,
+  },
+  {
     name: 'service',
     title: '服务监控',
     icon: DataServer,
@@ -48,7 +55,7 @@ export const menuOption: Array<MenuItem> = [
   {
     name: 'help',
     title: '帮助中心',
-    icon: DocSearchTwo,
+    icon: Helpcenter,
   },
 ]
 

@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router'
 
-const routes: Array<RouteRecordRaw> = [
+const routes: ({ redirect: string; path: string } | { path: string; component: () => Promise<{}>; name: string } | { path: string; component: () => Promise<{}>; name: string } | { path: string; component: () => Promise<any>; name: string } | { path: string; component: () => Promise<any>; name: string } | { path: string; component: () => Promise<any>; name: string } | { path: string; component: () => Promise<any>; name: string })[] = [
   {
     path: '/',
     redirect: '/home',
@@ -30,6 +30,11 @@ const routes: Array<RouteRecordRaw> = [
     path: '/service',
     component: () => import('@/pages/ServiceMonitor.vue'),
   },
+  {
+    name: 'movie',
+    path: '/movie',
+    component: () => import('@/pages/Movie.vue'),
+  }
 ]
 
 export const router = createRouter({

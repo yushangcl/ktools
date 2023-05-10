@@ -1,16 +1,3 @@
-<<<<<<< Updated upstream
-<script setup lang="ts">
-import README from '../../../README.md'
-</script>
-
-<template>
-  <a-card>
-    <README></README>
-  </a-card>
-</template>
-
-<style lang="less" scoped>
-=======
 <script setup lang='ts'>
 import { Application } from '@icon-park/vue-next'
 import README from '../../../README.md'
@@ -69,7 +56,6 @@ const openUrl = (url: string): void => {
 
 
 <style lang='less' scoped>
->>>>>>> Stashed changes
 .markdown-body {
   padding: 16px;
 
@@ -103,13 +89,11 @@ const openUrl = (url: string): void => {
   }
 }
 </style>
-<<<<<<< Updated upstream
-=======
 
 <style scoped>
 .container {
   /*height: 84vh; !* 设置容器高度为屏幕高度 *!*/
-  overflow: hidden; /* 隐藏溢出内容 */
+  /*overflow: hidden; !* 隐藏溢出内容 *!*/
 }
 
 .iframe {
@@ -122,4 +106,3 @@ const openUrl = (url: string): void => {
   visibility: hidden;
 }
 </style>
->>>>>>> Stashed changes

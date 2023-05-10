@@ -1,0 +1,87 @@
+#### Windows
+
+
+
+VMware Workstation 许可证密钥：
+
+```
+16：ZF3R0-FHED2-M80TY-8QYGC-NPKYF
+15：FC7D0-D1YDL-M8DXZ-CYPZE-P2AY6
+12：ZC3TK-63GE6-481JY-WWW5T-Z7ATA
+10：1Z0G9-67285-FZG78-ZL3Q2-234JG
+```
+
+
+
+
+
+VMware v15.x 永久许可证激活密钥
+
+```
+FF31K-AHZD1-H8ETZ-8WWEZ-WUUVA
+CV7T2-6WY5Q-48EWP-ZXY7X-QGUWD
+AC5EA-47D4N-M8EWY-EXQXE-YZ2EF
+CA54R-67DDM-M8EAY-L6NZZ-WGRX0
+GA5D8-A5F80-M88ZP-2YNXG-XAHUF
+YG510-21DDK-081ZQ-56Z7T-ZZ8T6
+YV7E0-22YD3-4852P-C5ZNG-N7RWA
+FG79H-6ZX51-48DZP-JMWZG-WGAF0
+FA1DU-2KZ40-M89JP-4NP7X-YVKZ2
+GY19U-43GE2-M88GQ-K4WEE-M3H8D
+GU14H-A9Z97-080TP-6WW5C-YY8W2
+VY390-D1F1K-488RQ-JFNXV-XVHTA
+```
+
+VMware v14.x 永久许可证激活密钥
+
+```
+FF31K-AHZD1-H8ETZ-8WWEZ-WUUVA
+CV7T2-6WY5Q-48EWP-ZXY7X-QGUWD
+```
+
+VMware v12.x 永久许可证激活密钥
+
+```
+5A02H-AU243-TZJ49-GTC7K-3C61N
+VF5XA-FNDDJ-085GZ-4NXZ9-N20E6
+UC5MR-8NE16-H81WY-R7QGV-QG2D8
+ZG1WH-ATY96-H80QP-X7PEX-Y30V4
+AA3E0-0VDE1-0893Z-KGZ59-QGAVF
+```
+
+
+
+#### MacOS
+
+```
+FY7N2-6RGD2-081XZ-UYWQC-ZPKCA
+ET5ND-XMZA3-K1XFE-PDM9K-WGQ1T
+WXVYF-VKPTF-C1ZQP-JCQGZ-UAGGZ
+FVEXX-6F7PG-E1U1L-YEN9P-PPEGV
+GLQPV-ZYA3T-Z1PAZ-DQNXH-UYGCV
+T9YYW-VHV6V-J1M8C-9P6EV-Z6EDX
+JXDWY-Z692T-E1QTL-7QYLX-X6GMV
+```
+
+
+
+## <font color="#ff0000">注意：</font>
+
+已经安装好的 vm镜像再 VM Images 目录下
+
+
+
+### 下载地址
+
+
+
+**VMware Workstation Pro 16.0.0 Build 16894299 官方版** [2020/09/14]
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.0.0-16894299.exe
+
+VMware Workstation Pro 15.0.1 Build 10737736 http://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.1-10737736.exe
+
+VMware Workstation Pro 14.1.3 Build 9474260 https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.3-9474260.exe
+
+VMware Workstation Pro 12.5.9 Build 7535481 https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.9-7535481.exe
+
+VMware Workstation 10.0.7 Build 2844087 https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.7-2844087.exe

@@ -3,36 +3,23 @@
 </p>
 <div align="center">
 
-<<<<<<< Updated upstream
-<div align="center">
 
-[![](https://flat.badgen.net/github/release/ikxin/kms-tools)](https://github.com/ikxin/kms-tools/releases)
-[![](https://flat.badgen.net/github/stars/ikxin/kms-tools)](https://github.com/ikxin/kms-tools/stargazers)
-[![](https://flat.badgen.net/github/forks/ikxin/kms-tools)](https://github.com/ikxin/kms-tools/network/members)
-[![](https://flat.badgen.net/github/commits/ikxin/kms-tools)](https://github.com/ikxin/kms-tools/commits)
-[![](https://flat.badgen.net/github/issues/ikxin/kms-tools)](https://github.com/ikxin/kms-tools/issues)
-[![](https://flat.badgen.net/github/watchers/ikxin/kms-tools)](https://github.com/ikxin/kms-tools/watchers)
-[![](https://flat.badgen.net/github/license/ikxin/kms-tools)](https://github.com/ikxin/kms-tools/blob/master/LICENSE)
+[![](https://flat.badgen.net/github/release/yushangcl/ktools)](https://github.com/yushangcl/ktools/releases)
+[![](https://flat.badgen.net/github/stars/yushangcl/ktools)](https://github.com/yushangcl/ktools/stargazers)
+[![](https://flat.badgen.net/github/forks/yushangcl/ktools)](https://github.com/yushangcl/ktools/network/members)
+[![](https://flat.badgen.net/github/commits/yushangcl/ktools)](https://github.com/yushangcl/ktools/commits)
+[![](https://flat.badgen.net/github/issues/yushangcl/ktools)](https://github.com/yushangcl/ktools/issues)
+[![](https://flat.badgen.net/github/watchers/yushangcl/ktools)](https://github.com/yushangcl/ktools/watchers)
+[![](https://flat.badgen.net/github/license/yushangcl/ktools)](https://github.com/yushangcl/ktools/blob/master/LICENSE)
 
-=======
-[![](https://flat.badgen.net/github/release/yushangcl/kms-tools)](https://github.com/ikxin/kms-tools/releases)
-[![](https://flat.badgen.net/github/stars/yushangcl/kms-tools)](https://github.com/ikxin/kms-tools/stargazers)
-[![](https://flat.badgen.net/github/forks/yushangcl/kms-tools)](https://github.com/ikxin/kms-tools/network/members)
-[![](https://flat.badgen.net/github/commits/yushangcl/kms-tools)](https://github.com/ikxin/kms-tools/commits)
-[![](https://flat.badgen.net/github/issues/yushangcl/kms-tools)](https://github.com/ikxin/kms-tools/issues)
-[![](https://flat.badgen.net/github/watchers/yushangcl/kms-tools)](https://github.com/ikxin/kms-tools/watchers)
-[![](https://flat.badgen.net/github/license/yushangcl/kms-tools)](https://github.com/ikxin/kms-tools/blob/master/LICENSE)
-
->>>>>>> Stashed changes
 </div>
 
 ## 📸 预览
 
 - Server：[https://kms.itbat.cn](https://kms.itbat.cn)
 
-- Cloudflare Pages：[https://itbat.pages.dev](https://itbat.pages.dev)
+- Cloudflare Pages：[https://ktools.pages.dev](https://ktools.pages.dev)
 
-![](./src/assets/images/preview.png)
 
 ## ✨ 技术栈
 
@@ -44,16 +31,9 @@
 
 ## 📦 部署
 
-<<<<<<< Updated upstream
-视频教程：[哔哩哔哩](https://www.bilibili.com/video/BV1SF411K7bq) |
-[YouTube](https://youtu.be/-Qu5A5Y5New) |
-[知乎](https://www.zhihu.com/zvideo/1533447796237168640) |
-[西瓜视频](https://www.ixigua.com/7122706847584223751)
 
-- 从 [Releases](https://github.com/ikxin/kms-tools/releases) 下载打包好的程序
-=======
-- 从 [Releases](https://github.com/yushangcl/kms-tools/releases) 下载打包好的程序
->>>>>>> Stashed changes
+- 从 [Releases](https://github.com/yushangcl/ktools/releases) 下载打包好的程序
+
 - 上传到自有服务器或 Github Pages、Cloudflare Pages、Vercel 等平台
 
 ## ⚙️ 构建
@@ -65,7 +45,7 @@
 ### 克隆代码
 
 ```bash
-git clone https://github.com/yushangcl/kms-tools.git
+git clone https://github.com/yushangcl/ktools.git
 ```
 
 ### 构建打包
@@ -83,13 +63,9 @@ pnpm run build
 pnpm run preview
 ```
 
-## ⭐ 星星
-
-![](https://starchart.cc/ikxin/kms-tools.svg)
-
 ## 🧑‍💻 作者
 
-Code with ❤️ by [一纸忘忧](https://www.ikxin.com '一纸忘忧')
+Code with ❤️ by [懒人科技](https://itbat.cn '懒人科技')
 
 ## 📜 开源协议
 

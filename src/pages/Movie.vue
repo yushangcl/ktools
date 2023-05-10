@@ -3,13 +3,13 @@
 <template>
   <div class="container">
 <!--    <iframe class="iframe" src="https://pan.itbat.cn/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/%E5%BA%94%E7%94%A8" frameborder="0"></iframe>-->
-    <iframe class="iframe" src="https://zfile.itbat.cn/1" frameborder="0"></iframe>
+    <iframe class="iframe" src="https://zfile.itbat.cn/2" frameborder="0"></iframe>
   </div>
 </template>
 
 <style scoped>
 .container {
-  height: 85vh; /* 设置容器高度为屏幕高度 */
+  height: 84vh; /* 设置容器高度为屏幕高度 */
   overflow: hidden; /* 隐藏溢出内容 */
 }
 
